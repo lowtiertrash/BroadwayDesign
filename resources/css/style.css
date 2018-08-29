@@ -15,15 +15,15 @@ h1 {
 }
 
 h2 {
-font-size: 32px;
-font-weight: bold;
+  font-size: 32px;
+  font-weight: bold;
 
 }
 
 h3 {
-font-size: 23;
-font-weight: bold;
-font-family: helvetica;
+  font-size: 23;
+  font-weight: bold;
+  font-family: helvetica;
 
 }
 
@@ -34,4 +34,12 @@ p {
 .navigate{
   font-size: 18px;
   color: white;
+}
+
+.footer {
+  font-family: helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
 }
